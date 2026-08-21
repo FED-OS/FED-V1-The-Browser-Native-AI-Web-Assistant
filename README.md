@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31285278/README.md)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W3T61ZU5FS)
 # FED-V1
 
 Autonomous, browser-native developer factory. Prompt an app; DeepSeek-R1 writes it,
